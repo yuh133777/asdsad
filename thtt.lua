@@ -15,10 +15,10 @@ local function b64decode(data)
 end
 
 local EncodedKeys = {
-    "RjJDWC1aOVRSLVc2TFA1TVE=",  -- "F2CX-Z9TR-W6LY-A5MQ"
-    "QjhMWi1LMTdXLVIzUVEteDdORA==",  -- "B8LZ-K1JW-R3QT-X7ND"
-    "TTRWUi1RMlhOLVc3WUpDLUM5RUI=",  -- "M4VR-Q2XN-P7YJ-C9EB"
-    "WDlEN0EzTFEtQzVOMi1LVDhX"  -- "X9D7-A3LQ-Z5N2-KT8W"
+    "RjJDWC1aOVRSLVc2TFA1TVE=",
+    "QjhMWi1LMTdXLVIzUVEteDdORA==",
+    "TTRWUi1RMlhOLVc3WUpDLUM5RUI=",
+    "WDlEN0EzTFEtQzVOMi1LVDhX"
 }
 
 local ValidKeys = {}
